@@ -15,6 +15,8 @@ And. There is one more even easier way to access it. Just click on [this link.](
 
 But, If you are even more lazier, you can scroll a bit further and have your eyelids open to view it too.
 
+[the-video](https://user-images.githubusercontent.com/24373162/132381200-3eb0c052-851e-41c4-8ff5-88c7bc00352f.mp4)
+
 ## Why this ?
 
 This model was created because of one impatient [Ben Stewart](https://sbenstewart.in/) who wanted to visualise his new set of wheels who couldn't wait for the three weeks it took to get delivered. It is hosted for all to view it too, even in the AR space if you have 5 meters of space to fit it in.
